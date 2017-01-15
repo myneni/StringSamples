@@ -1,4 +1,4 @@
-package concord.string.interviewsamples;
+package concord.string.interviewsample;
 
 public class StringToInteger {
 	public static String s1  = "123";

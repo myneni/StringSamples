@@ -1,4 +1,4 @@
-package concord.string.interviewsamples;
+package concord.string.interviewsample;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
