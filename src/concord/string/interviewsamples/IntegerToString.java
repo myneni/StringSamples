@@ -22,5 +22,6 @@ public static void main(String args[]){
 	SimpleDateFormat dateformatddMMyyyy=new SimpleDateFormat("dd/MM/yyyy");
 	String date_to_String =dateformatddMMyyyy.format(date);
 	System.out.println("String Date value :"+ date_to_String);
+	System.out.println("Added this to Git successfully");
 }
 }
