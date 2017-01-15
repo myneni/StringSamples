@@ -1,4 +1,4 @@
-package concord.string.interviewsamples;
+package concord.string.interviewsample;
 
 public class SwapString {
 	static String s1="Hello";
